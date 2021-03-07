@@ -13,7 +13,7 @@ I will divide the folders of this repository into the same divisions indicated i
 ## Table of Contents
 
 1. [Language Reference](language_reference/language_reference.md)
-2. [Standard Library Reference]()
+2. [Standard Library Reference](library_reference/library_reference.md)
 
 [1]: https://www.python.org/
 [2]: https://docs.python.org/3.8/reference/index.html
