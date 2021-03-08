@@ -2,7 +2,7 @@
 
 The objective of this repository is to learn as much as possbile about the underlying nature of the Python proggramming language.
 
-The [documentation][1] of the language contains a vaste amount of resources for comprehending the structure and layout of the language and I intend to form this repository as a guide to the important concepts.
+The [documentation][1] of the language contains a vaste amount of resources for comprehending the layout of the language and I intend to form this repository as a guide to the important concepts.
 
 I will explore both the [language reference][2] as well as the [standard library reference][3] starting with the language reference for **Python 3.8.8** found [here][4].
 
