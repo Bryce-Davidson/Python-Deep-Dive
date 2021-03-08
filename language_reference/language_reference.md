@@ -2,7 +2,8 @@
 
 This section is dedicated to sequentially explaining the python [language reference documentation][1].
 
---- 
+---
+
 ## Table of Contents
 
 1. Data Model
