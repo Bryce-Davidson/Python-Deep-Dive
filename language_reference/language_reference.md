@@ -7,5 +7,6 @@ This section is dedicated to sequentially explaining the python [language refere
 ## Table of Contents
 
 1. Data Model
+   - [Objects, values and types](3_Data_Model/ids_types_values/ids_types_values.md)
 
 [1]: https://docs.python.org/3.8/reference/index.html
