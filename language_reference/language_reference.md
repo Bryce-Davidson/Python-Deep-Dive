@@ -1,6 +1,6 @@
 # Language Reference
 
-This section is dedicated to sequentially explaining the python [language reference documentation][1].
+This section is dedicated to explaining the python [language reference documentation][1].
 
 ---
 
